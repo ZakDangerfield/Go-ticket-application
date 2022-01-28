@@ -26,7 +26,7 @@ func main() {
 	// Ticket booking application:
 	// - Takes Booking information from user
 	// - Subtracts selected amount of tickets from remainingTickets variable
-	// - Stores Booking information into into expandable
+	// - Stores Booking information
 	greetUsers()
 
 	//Collecting booking information
